@@ -6,3 +6,6 @@
 # OAuth2.0 credentials
 credentials.json
 token.json
+
+# Service Account credentials
+service-account.json
