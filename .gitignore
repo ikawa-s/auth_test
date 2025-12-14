@@ -2,3 +2,7 @@
 .env
 .env.local
 .env.*.local
+
+# OAuth2.0 credentials
+credentials.json
+token.json
